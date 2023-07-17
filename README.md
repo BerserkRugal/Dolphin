@@ -1,4 +1,4 @@
-# Dolpin (Former name of the protocol: Jasimine)
+# Dolpin (Former name of the protocol: Jasmine)
 
 ## Quick Start
 
